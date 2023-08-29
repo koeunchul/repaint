@@ -1,3 +1,6 @@
+# 학습 방법
+python image_sample.py $MODEL_FLAGS --model_path ../result/model000090.pt $SAMPLE_FLAGS --batch_size 1 --num_samples 100 --timestep_respacing 1000
+
 # RePaint
 **Inpainting using Denoising Diffusion Probabilistic Models**
 
