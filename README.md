@@ -1,5 +1,5 @@
 # 학습 방법
-python test.py --conf_path confs/capsule_test.yml\
+python test.py --conf_path confs/capsule.yml\
 
 # RePaint
 **Inpainting using Denoising Diffusion Probabilistic Models**
